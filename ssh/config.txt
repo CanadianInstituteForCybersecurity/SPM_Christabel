@@ -1,0 +1,5 @@
+Host github.com
+     HostName github.com
+     User git
+     IdentityFile "/e/RICKS/Software_Project_Management/Practical/SPM_Christabel/ssh/ChristyUnb"
+     
