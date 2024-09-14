@@ -1,0 +1,9 @@
+os: Windows
+
+language: node_js
+
+node_js:
+  - "stable"
+
+script:
+  - recursive.js
