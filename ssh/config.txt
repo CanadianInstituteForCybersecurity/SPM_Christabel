@@ -1,6 +1,6 @@
 Host github.com
      HostName github.com
      User git
-     IdentityFile "/c/Users/ewoen/Desktop/Practical/SPM_Christabel/ssh/ChristyUnb"
+     IdentityFile "/c/Users/ewoen/Desktop/Practical/SPM_Christabel/ssh/id_rsa"
      IdentitiesOnly yes
      
